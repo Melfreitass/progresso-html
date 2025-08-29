@@ -10,3 +10,26 @@
     background-color: rgb(62, 5, 219);
     margin: 40px auto;
 }
+
+.dois-quadrados {
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.quadrado1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(5, 114, 124);
+    margin: 6px;
+}
+
+.quadrado2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(202, 13, 186);
+    margin: 6px;
+}
