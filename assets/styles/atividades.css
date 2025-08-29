@@ -33,3 +33,35 @@
     background-color: rgb(202, 13, 186);
     margin: 6px;
 }
+
+.circulos {
+    height: 100vh;
+    display: flex;
+    gap: 15px;
+    padding: 10px;
+    background: white;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.circulo1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(196, 0, 0);
+    border-radius: 50%;
+}
+
+.circulo2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(238, 255, 0);
+    border-radius: 50%;
+}
+
+.circulo3 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(6, 173, 0);
+    border-radius: 50%;
+}
