@@ -1,1 +1,19 @@
+*{    
+    margin: 0;    
+    padding: 0;    
+    box-sizing: border-box;
+}
 
+body {    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+form {    
+    padding: 100px;    
+    height: 100vh;    
+    color: rgb(0, 0, 0);    
+    background-color: rgb(232, 214, 255);    
+    display: flex;    justify-content: center;    
+    align-items: center;    
+    gap: 20px
+}
